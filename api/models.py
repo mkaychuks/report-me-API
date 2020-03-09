@@ -37,4 +37,4 @@ class Report(models.Model):
         ordering = ['-reported_time']
 
     def __str__(self):
-        return f'{self.reporter} reported a case by {self.reported_time} under {self.category.name}'
+        return ('{} reported a case by {} under {}').format(self.reporter, self.reported_time, self.category)
