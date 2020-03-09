@@ -1,0 +1,8 @@
+**/.vscode
+
+**/__pycache__
+
+djangotuts/bin/
+djangotuts/lib/
+profile_pictures/
+mobile-uploads/
