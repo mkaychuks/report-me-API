@@ -7,4 +7,4 @@ djangotuts/lib/
 profile_pictures/
 mobile-uploads/
 
-*.sqlite3
+*db.sqlite3
