@@ -6,3 +6,5 @@ djangotuts/bin/
 djangotuts/lib/
 profile_pictures/
 mobile-uploads/
+
+*.sqlite3
